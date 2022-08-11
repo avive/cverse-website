@@ -9,7 +9,7 @@ const config = {
   title: 'Cryptoverse Partners',
   tagline: 'Backing bold web3/crypto founders',
   url: 'https://cverse.vc',
-  baseUrl: '/cverse-website/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
