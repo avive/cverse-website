@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cryptoverse Partners',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Backing bold web3/crypto founders',
   url: 'https://cverse.vc',
   baseUrl: '/',
   onBrokenLinks: 'throw',
