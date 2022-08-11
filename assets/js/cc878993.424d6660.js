@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoverse_website=self.webpackChunkcryptoverse_website||[]).push([[1105],{9882:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/cverse-website/blog/tags/hello","allTagsPath":"/cverse-website/blog/tags","count":2}')}}]);

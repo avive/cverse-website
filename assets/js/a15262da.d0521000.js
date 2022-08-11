@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcryptoverse_website=self.webpackChunkcryptoverse_website||[]).push([[6158],{6724:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/cverse-website/blog/tags/docusaurus","allTagsPath":"/cverse-website/blog/tags","count":4}')}}]);
