@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img src='img/logo_black_anim.gif'/>
+        <img src='img/logo_black_anim_med.gif'/>
       </div>
     </header>
   );
@@ -22,7 +22,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Cryptoverse Capital"}
+      title="Cryptoverse Capital"
       description="Backing the Next Generation of Crypto Icons">
       <HomepageHeader className='white-bcg'/>
       <main>
