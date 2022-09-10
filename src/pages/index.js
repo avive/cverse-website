@@ -22,7 +22,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title="Cryptoverse Capital"
+      title="Cryptoverse Partners"
       description="Backing the Next Generation of Crypto Icons">
       <HomepageHeader className='white-bcg'/>
       <main>
